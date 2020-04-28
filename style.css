@@ -17,7 +17,7 @@ body{
 }
 
 .text:hover,.box:hover{
-    animation: bounce 5s linear;
+    animation: bounce 15s linear;
 }
 
 @keyframes bounce{
